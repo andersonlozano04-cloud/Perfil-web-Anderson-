@@ -13,12 +13,12 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Your name, your role, your links |
-| About | Two or three sentences about you |
-| Skills | Your technical and professional skills |
-| Resume | Your education and your experience |
-| Projects | The projects you have built |
-| Contact | How people can reach you |
+| Home | Anderson Lozano – Web Developer in Training. Web Programming Student at UNIESPINAL. |
+| About | My name is Anderson Lozano. I am a Web Programming student at UNIESPINAL, currently in my third semester. I am interested in creating web pages, developing systems, working with databases, and learning new technologies. |
+| Skills | Technical: HTML, JavaScript, PHP, MySQL. Professional: Problem-solving, creativity, responsibility, web development, database management, and learning new technologies. |
+| Resume | Education: Technical Professional in Web Programming at UNIESPINAL, currently in the third semester. Experience: I am developing my professional experience through academic projects. |
+| Projects | Clothing Inventory System: A web-based project developed to manage and organize clothing inventory using HTML, JavaScript, PHP, and MySQL. |
+| Contact | Email: darleylozanogutierrez@gmail.com |
 
 ---
 
