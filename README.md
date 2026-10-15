@@ -7,19 +7,36 @@ The page works in **Spanish and English**. Visitors change the language with one
 
 ---
 
-## What you will build
+# Anderson Lozano - Web Developer Portfolio
 
-A public web page with six sections:
+## Home
+Anderson Lozano – Web Developer in Training. Web Programming Student at UNIESPINAL.
 
-| Section | What goes there |
-|---|---|
-| Home | Anderson Lozano – Web Developer in Training. Web Programming Student at UNIESPINAL. |
-| About | My name is Anderson Lozano. I am a Web Programming student at UNIESPINAL, currently in my third semester. I am interested in creating web pages, developing systems, working with databases, and learning new technologies. |
-| Skills | Technical: HTML, JavaScript, PHP, MySQL. Professional: Problem-solving, creativity, responsibility, web development, database management, and learning new technologies. |
-| Resume | Education: Technical Professional in Web Programming at UNIESPINAL, currently in the third semester. Experience: I am developing my professional experience through academic projects. |
-| Projects | Clothing Inventory System: A web-based project developed to manage and organize clothing inventory using HTML, JavaScript, PHP, and MySQL. |
-| Contact | Email: darleylozanogutierrez@gmail.com |
+## About
+My name is Anderson Lozano. I study Web Programming at UNIESPINAL. Currently, I am in my third semester. I am interested in creating web pages and developing systems. I want to learn new technologies and work with databases.
 
+## Skills
+
+### Technical Skills
+* **HTML:** I use HTML to build the structure of web pages.
+* **JavaScript:** I write JavaScript code to make websites interactive.
+* **PHP:** I use PHP to develop dynamic web applications.
+
+### Professional Skills
+* **Problem-solving:** I enjoy finding solutions to complex programming challenges.
+* **Creativity:** I apply creativity to design attractive user interfaces.
+* **Responsibility:** I take responsibility for delivering my tasks on time.
+
+* **RESUMEN**
+
+* **Education:** Technical Professional in Web Programming at UNIESPINAL, currently in the third semester.
+* **Experience:** I am developing my professional experience through academic projects.
+
+## Projects
+* **Clothing Inventory System:** A web-based project developed to manage and organize clothing inventory using HTML, JavaScript, PHP, and MySQL.
+
+## Contact
+* **Email:** darleylozanogutierrez@gmail.com
 ---
 
 ## Before you start
